@@ -1,0 +1,14 @@
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\SP2-Atividade1\Atividade\bin\Debug\net9.0\Atividade.exe
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\SP2-Atividade1\Atividade\bin\Debug\net9.0\Atividade.deps.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\SP2-Atividade1\Atividade\bin\Debug\net9.0\Atividade.runtimeconfig.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\SP2-Atividade1\Atividade\bin\Debug\net9.0\Atividade.dll
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\SP2-Atividade1\Atividade\bin\Debug\net9.0\Atividade.pdb
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\SP2-Atividade1\Atividade\obj\Debug\net9.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\SP2-Atividade1\Atividade\obj\Debug\net9.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\SP2-Atividade1\Atividade\obj\Debug\net9.0\Atividade.AssemblyInfo.cs
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\SP2-Atividade1\Atividade\obj\Debug\net9.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\SP2-Atividade1\Atividade\obj\Debug\net9.0\Atividade.dll
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\SP2-Atividade1\Atividade\obj\Debug\net9.0\refint\Atividade.dll
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\SP2-Atividade1\Atividade\obj\Debug\net9.0\Atividade.pdb
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\SP2-Atividade1\Atividade\obj\Debug\net9.0\Atividade.genruntimeconfig.cache
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\SP2-Atividade1\Atividade\obj\Debug\net9.0\ref\Atividade.dll
